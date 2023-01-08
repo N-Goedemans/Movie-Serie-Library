@@ -1,0 +1,48 @@
+.header1{
+    display: flex;
+    justify-content: center;
+}
+.table1{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color:slategrey;
+    color: snow;
+}
+.table2{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title2{
+    display: flex;
+    justify-content: center;
+}
+td{
+    padding: 5px;
+}
+button{
+    width: 100px;
+    height: 50px;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input[type="text"][name="description"]{
+    height: 20px;
+    width: 800px;
+}
+.toevoeg_knop {
+    display: flex;
+    justify-content: center;
+}
+.type {
+    display: flex;
+    flex-direction: row;
+}
